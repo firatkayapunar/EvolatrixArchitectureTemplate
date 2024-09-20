@@ -1,4 +1,4 @@
-﻿namespace EvolatrixArchitectureTemplate.PersistenceContract.BlogContracts
+﻿namespace EvolatrixArchitectureTemplate.PersistenceContract.CityContracts
 {
     public interface ICityRepository<T>
     { }

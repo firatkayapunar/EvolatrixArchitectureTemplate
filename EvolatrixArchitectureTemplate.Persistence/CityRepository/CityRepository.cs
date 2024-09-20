@@ -1,6 +1,6 @@
 ﻿using EvolatrixArchitectureTemplate.Domain.Entities;
 using EvolatrixArchitectureTemplate.Persistence.Context;
-using EvolatrixArchitectureTemplate.PersistenceContract.BlogContracts;
+using EvolatrixArchitectureTemplate.PersistenceContract.CityContracts;
 using Microsoft.EntityFrameworkCore;
 
 namespace EvolatrixArchitectureTemplate.Persistence.Repositories.CityRepository
